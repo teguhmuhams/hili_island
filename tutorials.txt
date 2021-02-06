@@ -1,0 +1,8 @@
+The basis of the game is a game of rock, paper, scissors. The same logic as the real-life 'rock paper scissors' game also works in the game.
+There are three choices of weapons that the user can choose, starting from rock, scissors, and paper. Each choice of weapon can beat one of the other types of weapons, but can also be defeated by one of the other different types of weapons. If it turns out that the weapons used are the same, there will be a draw.
+Here is a list of the strengths and weaknesses of weapons.
+"Rock": Strong against scissors, but weak against paper.
+"Paper": Strong against rock, but weak against scissors.
+"Scissors": Strong against paper, but weak against rock.
+So far, the game has 3 different levels. In each level the player and opponent stats will be different and make the game more difficult. The scoring in this game is judged based on the number of attempts required by the player to beat the opponent.
+The player will fight against an opponent controlled by computer. Player will be prompted to choose from the three available weapons. Then, the opponent will also pick a weapon but randomly. So, basically, this is a game that relies heavily on luck. So, good luck!
