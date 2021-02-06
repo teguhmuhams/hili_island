@@ -230,7 +230,7 @@ def about():
     print("For missing files: https://github.com/teguhmuhams/hiliislandgame")
     print("Version: 1.0\n")
     print("Thanks:")
-    print("-Bang Randy Heksadesianto from IMILKOM USU\n-Stackoverflow (obvious)\n-Tutorialspoint\n-GeeksforGeeks\n-Genshin Impact for hilichurl reference\n-etc\n")
+    print("-Bang Randy Heksadesianto from IMILKOM USU\n-Stackoverflow (obvious)\n-Tutorialspoint\n-GeeksforGeeks\n-Genshin Impact for hilichurl reference\n-Google Translate\n-etc\n")
     input("Press enter to continue...")
 
 
