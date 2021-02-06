@@ -49,8 +49,6 @@ def isSkip(section):
                 input_message("Wrong input. Try again!")
         except:
             input_message("Invalid input.")
-    print(skip)
-    input("HOLD")
     return skip
 
 
